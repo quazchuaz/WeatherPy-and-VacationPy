@@ -1,5 +1,5 @@
 # WeatherPy-and-VacationPy
-##WeatherPy
+## WeatherPy
 Use data extracted from the OpenWeatherMap API to visualise weather trends based on latitude. The relevant scatterplots are illustrated below:
 
 ![image](https://github.com/quazchuaz/WeatherPy-and-VacationPy/assets/135037270/c7790026-7910-48c0-85b2-5701eeae1294)
@@ -16,7 +16,7 @@ Based on linear regression models of these trends the one with the highest r-squ
 
 ![image](https://github.com/quazchuaz/WeatherPy-and-VacationPy/assets/135037270/873455a0-1f02-4ebe-826d-db46d62ba756)
 
-##VacationPy
+## VacationPy
 Create a map of cities extracted from the relevant dataframe and implement a filter based on temperature, wind speed and cloudiness to view cities with the required weather conditions. Finally, create a message box which appears when hovering over the datapoint on the map which has pertinent information about that city. An example is illustrated below:
 
 ![image](https://github.com/quazchuaz/WeatherPy-and-VacationPy/assets/135037270/b7e515d7-f14c-4276-abe6-f29983482d9d)
